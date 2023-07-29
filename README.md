@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuri Weerarathne</h1>
 <h3 align="center">Passionate full-stack developer seeking SE intern opportunity</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding.gif">
 
 - 🔭 I’m currently working on **Spring Boot CRUD Application**
 
