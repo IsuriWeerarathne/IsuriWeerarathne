@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuri Weerarathne</h1>
-<h3 align="center">Passionate full-stack developer seeking SE intern opportunity</h3>
+<h3 align="center">Passionate IT Business Analyst</h3>
 <img src="https://tenor.com/en-GB/view/programming-gif-25868426.gif" align="right" width="400">
 
 - 🔭 I’m currently working on **Spring Boot CRUD Application**
