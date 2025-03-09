@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/isuri weerarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuri weerarathne" height="30" width="40" /></a>
-<a href="https://fb.com/isuri weerarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuri weerarathne" height="30" width="40" /></a>
-<a href="https://instagram.com/isuri weerarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuri weerarathne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isuri-weerarathne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuri weerarathne" height="30" width="40" /></a>
+<a href="https://www.facebook.com/isuri.weerarathne.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuri weerarathne" height="30" width="40" /></a>
+<a href="https://www.instagram.com/isuri_w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuri weerarathne" height="30" width="40" /></a>
 <a href="https://medium.com/@isuriweerarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isuriweerarathna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isuri weerarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isuri weerarathne" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/isuriw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isuri weerarathne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
