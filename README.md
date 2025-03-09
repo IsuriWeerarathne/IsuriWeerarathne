@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Isuri Weerarathne</h1>
+<h1 align="center">Hello 👋, I'm Isuri Weerarathne</h1>
 <h3 align="center">Passionate IT Business Analyst</h3>
 <img src="https://tenor.com/en-GB/view/programming-gif-25868426.gif" align="right" width="400">
 
-- 🔭 I’m currently working on **Spring Boot CRUD Application**
+- 🌱 I’m currently working on an ML-based research, **Predictive Analysis of CAD**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Machine Learning and Data Mining**
 
 - 📝 I regularly write articles on [https://medium.com/@isuriweerarathna](https://medium.com/@isuriweerarathna)
 
 - 📫 How to reach me **isuriweerarathna@gmail.com**
 
-- ⚡ Fun fact **Brain Sponge**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Always Open to Learn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
